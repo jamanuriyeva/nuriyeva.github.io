@@ -1,0 +1,8 @@
+# Игнорирование всех файлов с расширением .log
+*.log
+
+# Игнорирование папки node_modules
+node_modules/
+
+# Игнорирование файла с именем secrets.txt
+secrets.txt
